@@ -22,4 +22,4 @@ Just call the main function
 
     python main.py
 
-You can play with model parameters (specified in main.py), if you get good results or any trouble, please contact me at gxiang1228@gmail.com
+You can play with model parameters (specified in main.py).
