@@ -1,3 +1,4 @@
+This project was forked from https://github.com/golsun/deep-RL-trading
 
 # **Playing trading games with deep reinforcement learning**
 
